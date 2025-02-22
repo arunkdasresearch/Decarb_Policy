@@ -1,0 +1,1 @@
+This is just a .txt file that makes git sync this folder so errors don't pop up when you run the codes. Safely delete after cloning the repo.
